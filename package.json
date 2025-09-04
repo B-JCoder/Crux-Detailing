@@ -77,5 +77,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-JCoder/Crux-Detailing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/B-JCoder/Crux-Detailing/issues"
+  },
+  "homepage": "https://github.com/B-JCoder/Crux-Detailing#readme",
   "description": ""
 }
